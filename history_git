@@ -1,0 +1,11 @@
+ 2326  git init
+ 2327  ls
+ 2328  cd mycode
+ 2329  ls
+ 2330  cd javascript
+ 2331  git init
+ 2334  git add *
+ 2336  git commit -m "initial"
+ 2337  git status
+ 2338  git remote add origin https://github.com/jinypia/javascript
+ 2339  git push origin master
